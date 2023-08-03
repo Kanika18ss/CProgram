@@ -3,7 +3,7 @@
 
 int main()
 {
-    char str[] = { "Kaniks" };
+    char str[] = { "ABBA" };
 
     int l = 0;
     int h = strlen(str) - 1;
